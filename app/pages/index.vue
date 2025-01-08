@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://www.morningagclips.com/wp-content/uploads/2024/10/getty-images-LcV4LyDGpDY-unsplash-e1730061325933-720x400.jpg"
         />
       </div>
     </div>
